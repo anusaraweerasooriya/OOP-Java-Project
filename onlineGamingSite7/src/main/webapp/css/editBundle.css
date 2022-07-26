@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+body {
+  background: #FFCDD2;
+  background: linear-gradient(to right, #E0E0E0, #EF9A9A);
+}
+
+.card-img-left {
+  width: 45%;
+  /* Link to your background image using in the property below! */
+  background: scroll center url('../images/bundle/bundleImg5.jpg');
+  								
+  background-size: cover;
+}
+
+.card-body {
+	background-color : #616161;
+	
+		
+}
+
+.card{
+	border-radius : 2%;
+	box-shadow:2px 1px 10px 2px;
+	
+}
+
+
+   
+   
+  

@@ -1,0 +1,16 @@
+@charset "ISO-8859-1";
+
+tr{
+	background-color:#EEEEEE;
+}
+
+#outer {
+	
+	background-color:  #0dcaf0;
+}
+
+body{
+	  background: #FFCDD2;
+      background: linear-gradient(to right, #E0E0E0, #adb5bd);
+	
+}

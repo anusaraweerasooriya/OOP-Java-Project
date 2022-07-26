@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+
+body{
+	background: #FFCDD2;
+    background: linear-gradient(to right, #E0E0E0, #adb5bd);
+}
+
+.container{
+	
+	height: 450px;
+	width:600px;
+    border-radius: 40px;
+	box-shadow:2px 1px 10px 2px;
+}
+
+#btn1{
+	width: 250px;
+}

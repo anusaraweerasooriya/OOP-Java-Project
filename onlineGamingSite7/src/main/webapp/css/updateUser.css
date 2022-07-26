@@ -1,0 +1,14 @@
+@charset "ISO-8859-1";
+
+#ctn1 {
+    border-radius: 20px;
+    box-shadow: 8px 8px 8px 8px #8888;
+    background-color: #EEEEEE;
+}
+
+body{
+	  background: #FFCDD2;
+      background: linear-gradient(to right, #E0E0E0, #adb5bd);
+	
+}
+

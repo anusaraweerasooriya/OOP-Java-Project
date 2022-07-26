@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+.card-img-top {
+
+  /* Link to your background image using in the property below! */
+  background: scroll center;
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+  								
+  background-size: cover;
+}
+
+.card-body{
+  background: scroll center;
+  width: 100%;
+  height: 15vw;
+  object-fit: cover;
+  								
+  background-size: cover;
+}
+
+.card{
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+body{
+	background: #FFCDD2;
+    background: linear-gradient(to right, #E0E0E0, #adb5bd);
+}

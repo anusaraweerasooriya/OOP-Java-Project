@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+
+body {
+  background: #FFCDD2;
+  background: linear-gradient(to right, #E0E0E0, #EF9A9A);
+}
+
+.card-body {
+	
+	background-color : #616161;
+	border-radius : 2%;
+	box-shadow:2px 1px 10px 2px;
+	opacity: 60%;
+		
+}
+

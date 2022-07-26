@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+body{
+	background: #FFCDD2;
+  	background: linear-gradient(to right, #E0E0E0, #EF9A9A);
+}
+
+
+tr {
+	background-color: #EEEEEE;
+}
+
+table{
+	box-shadow:0.1px 1px 6px 2px;
+}
+
+.ellipsis {
+    position: relative;
+}
+.ellipsis:before {
+    content: '&nbsp;';
+    visibility: hidden;
+}
+.ellipsis span {
+    position: absolute;
+    left: 0;
+    right: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
